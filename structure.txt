@@ -1,0 +1,13 @@
+odir_final
+├── main.py
+├── config.py
+├── modules/
+│   ├── manager/
+│   │   └── image_manager.py
+│   ├── models/
+│   │   ├── paciente.py
+│   │   ├── diagnostico.py
+│   │   └── imagen.py
+│   ├── utils/
+│   │   ├── io.py
+│   │   └── validation.py
